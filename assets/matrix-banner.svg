@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+<rect width="1200" height="220" fill="#050505"/>
+<g fill="#00FF41" font-family="monospace" font-size="18" opacity="0.85">
+<text x="30" y="32">01001011 01000001 01010011 01001000</text>
+<text x="430" y="58">00110001 00110000 00110001 00110000</text>
+<text x="100" y="88">10110100 01100001 01101011 01100001 01110011</text>
+<text x="650" y="118">00110000 01111000 01010011 01100101 01100011</text>
+<text x="40" y="148">01110110 01100001 01110000 01110100 00101110 00110000</text>
+<text x="510" y="180">00110001 00110000 00110001 00110000 00110001</text>
+</g>
+<text x="440" y="125" fill="#ff0033" font-family="monospace" font-size="28" font-weight="700">AKASH // SECURITY</text>
+<rect x="0" y="216" width="1200" height="4" fill="#00FF41"/>
+</svg>
