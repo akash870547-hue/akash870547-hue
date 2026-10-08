@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+<defs><linearGradient id="g"><stop stop-color="#00ff41"/><stop offset="1" stop-color="#007a25"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="330" rx="16" fill="#050505" stroke="#00ff41" stroke-opacity=".65"/>
+<circle cx="24" cy="24" r="7" fill="#ff0033"/><circle cx="47" cy="24" r="7" fill="#ffd43b"/><circle cx="70" cy="24" r="7" fill="#00ff41"/>
+<text x="100" y="30" fill="#777" font-family="monospace" font-size="14">AKASH_SECURITY_CONSOLE // PROFILE_INIT</text>
+<g fill="#00ff41" font-family="monospace" filter="url(#glow)">
+<text x="55" y="92" font-size="26">ACCESS GRANTED</text>
+<text x="55" y="132" font-size="17">AKASH@SECURITY-LAB:~$ whoami</text>
+<text x="55" y="161" font-size="17">cybersecurity • vapt • dfir • automation</text>
+<text x="55" y="200" font-size="17">AKASH@SECURITY-LAB:~$ ./mission --execute</text>
+<text x="55" y="229" font-size="17">discover → validate → document → remediate</text>
+</g>
+<g font-family="monospace" font-size="14">
+<text x="850" y="92" fill="#ff0033">[ OFFENSIVE ]</text><text x="850" y="120" fill="#00ff41">WEB / NETWORK</text>
+<text x="850" y="158" fill="#ffd43b">[ FORENSICS ]</text><text x="850" y="186" fill="#00ff41">DFIR / IOC / TIMELINE</text>
+<text x="850" y="224" fill="#ff0033">[ ENGINEERING ]</text><text x="850" y="252" fill="#00ff41">AUTOMATION / DEVSECOPS / AI</text>
+</g>
+<line x1="55" y1="285" x2="1145" y2="285" stroke="url(#g)" opacity=".8"/>
+<text x="55" y="310" fill="#666" font-family="monospace" font-size="12">SESSION: AUTHORIZED // MODE: BUILD + BREAK + INVESTIGATE + SECURE</text>
+</svg>
