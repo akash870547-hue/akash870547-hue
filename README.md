@@ -1,121 +1,112 @@
-# ⚡ AKASH SARASWAT
+# AKASH SARASWAT
 
 <div align="center">
-<img src="./assets/security-console.svg" width="100%" alt="Akash Saraswat Security Console">
+<img src="./assets/terminal-hero.svg" width="100%" alt="Terminal hacker profile header">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=850&lines=root%40akash-lab%3A~%24+whoami;Akash+Saraswat+%7C+Cybersecurity;root%40akash-lab%3A~%24+cat+mission.txt;VAPT+%2F+DFIR+%2F+Security+Automation;root%40akash-lab%3A~%24+./secure-the-system.sh" alt="Terminal animation">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=850&color=00FF41&center=true&vCenter=true&width=850&lines=%3E+initializing+security+profile...;%3E+web+vapt+%7C+network+security+%7C+dfir;%3E+automation+%7C+devsecops+%7C+ai+security;%3E+observe+%E2%86%92+test+%E2%86%92+validate+%E2%86%92+secure" alt="Typing animation">
-
-[![Visitors](https://komarev.com/ghpvc/?username=akash870547-hue&style=for-the-badge&color=00FF41&label=VISITORS)](https://github.com/akash870547-hue)
-![Focus](https://img.shields.io/badge/FOCUS-VAPT_%7C_DFIR_%7C_AUTOMATION-00FF41?style=for-the-badge&labelColor=050505)
-![Build](https://img.shields.io/badge/BUILDING-SECURITY_TOOLS-ff0033?style=for-the-badge&labelColor=050505)
+![Access](https://img.shields.io/badge/ACCESS-AUTHORIZED-00ff41?style=flat-square&labelColor=080808) ![Mode](https://img.shields.io/badge/MODE-RED_TEAM%20%2B%20BLUE_TEAM-ff3344?style=flat-square&labelColor=080808) ![Views](https://komarev.com/ghpvc/?username=akash870547-hue&style=flat-square&color=00ff41&label=PROFILE+VIEWS)
 </div>
 
-> **/dev/security** — I build, break, investigate, and automate security workflows across **Web VAPT, Network Security, DFIR, DevSecOps, and AI Security**.
+```bash
+┌──(akash㉿security-lab)-[~]
+└─$ id
+uid=akash(cybersecurity) groups=(vapt,dfir,automation,devsecops)
 
----
+┌──(akash㉿security-lab)-[~]
+└─$ cat /etc/mission
+> map the attack surface
+> validate findings with evidence
+> investigate incidents
+> automate repetitive security work
+```
 
-## 🖥️ SECURITY CONSOLE
+## 01 // OPERATOR PROFILE
 
-**Identity:** Akash Saraswat  
-**Primary:** VAPT / Offensive Security  
-**Secondary:** DFIR / Security Automation  
-**Lab:** Kali • Ubuntu • Windows • pfSense • Snort  
-**Workflow:** DISCOVER → VALIDATE → DOCUMENT → REMEDIATE  
-**Principle:** evidence > assumptions
+**Akash Saraswat** — cybersecurity practitioner focused on **Web & Network VAPT, Digital Forensics and Incident Response, and Security Automation**. I like practical labs, repeatable tooling, evidence-driven analysis, and clear remediation.
 
-## 🎯 MISSION CONTROL
+<p align="center"><img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,docker,aws,terraform,kubernetes" alt="Core technology stack"></p>
 
-| Track | Focus |
-|:---|:---|
-| 🔴 **Offensive Security** | Web VAPT • OWASP testing • network assessment • retesting |
-| 🔵 **DFIR** | Windows artifacts • Sysmon • IOC extraction • timelines |
-| 🟢 **Automation** | Python security tooling • repeatable workflows |
-| 🟡 **DevSecOps** | AWS • EKS • Terraform • Prometheus • Grafana |
-| 🟣 **AI Security** | LLM security • RAG risks • prompt injection |
+## 02 // TOOLKIT
 
-## 🧰 ARSENAL
+| ATTACK SURFACE | TOOLING / FOCUS |
+|:--|:--|
+| WEB | Burp Suite · OWASP testing · ZAP |
+| NETWORK | Nmap · Wireshark · vulnerability retesting |
+| DFIR | Windows event logs · Sysmon · IOC extraction · timelines |
+| AUTOMATION | Python · repeatable assessment workflows |
+| CLOUD / DEVSECOPS | AWS · Kubernetes · Terraform · monitoring |
+| AI SECURITY | LLM security concepts · RAG risks · prompt injection |
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,bash,python,java,dotnet,docker,kubernetes,aws,terraform,git,github" alt="Technology stack">
-</p>
+## 03 // OPERATIONS LOG
 
-<p align="center">
-<img src="https://img.shields.io/badge/BURP_SUITE-VAPT-ff0033?style=flat-square">
-<img src="https://img.shields.io/badge/NMAP-NETWORK-00FF41?style=flat-square">
-<img src="https://img.shields.io/badge/WIRESHARK-DFIR-00FF41?style=flat-square">
-<img src="https://img.shields.io/badge/METASPLOIT-OFFENSIVE-ff0033?style=flat-square">
-<img src="https://img.shields.io/badge/SPLUNK-SIEM-FFD43B?style=flat-square">
-<img src="https://img.shields.io/badge/NESSUS-SCANNING-FFD43B?style=flat-square">
-<img src="https://img.shields.io/badge/OWASP-TOP_10-00FF41?style=flat-square">
-<img src="https://img.shields.io/badge/ZAP-WEB_TESTING-00FF41?style=flat-square">
-</p>
+<details open><summary><b>[CASE 001] Digital Forensics & Incident Response</b></summary>
 
----
+Synthetic Windows ransomware investigation casebook: evidence handling, event analysis, IOC extraction, timeline construction, detection logic, and incident reporting.
 
-## 🚀 ACTIVE PROJECTS
+**STATUS:** DOCUMENTED · **TYPE:** DFIR CASEBOOK
 
-### 01 — Digital Forensics & Incident Response
-Synthetic Windows ransomware casebook covering evidence handling, Sysmon/event analysis, IOC extraction, timelines, detections, and analyst reporting.
+[OPEN CASE FILE →](https://github.com/akash870547-hue/Digital-Forensics-Incident-Response)
+</details>
 
-**→** [Open casebook](https://github.com/akash870547-hue/Digital-Forensics-Incident-Response)
+<details><summary><b>[CASE 002] Web VAPT Suite</b></summary>
 
-### 02 — Web VAPT Suite
-Authorized web-security assessment workflow with methodology, reporting templates, validation helpers, and a synthetic target report.
+Authorized web assessment workflow with methodology, report templates, validation helpers, and a synthetic example report.
 
-**→** [Open toolkit](https://github.com/akash870547-hue/web-vapt-suite)
+[OPEN TOOLKIT →](https://github.com/akash870547-hue/web-vapt-suite)
+</details>
 
-### 03 — Network VAPT Retesting Automation
-Baseline-vs-retest comparison engine classifying findings as **OPEN / FIXED / CHANGED**.
+<details><summary><b>[CASE 003] Network VAPT Retesting Automation</b></summary>
 
-**→** [Open automation](https://github.com/akash870547-hue/Network-vapt-retesting-automation)
+Compares baseline and retest results, tracking findings as **OPEN / FIXED / CHANGED**.
 
-### 04 — 0x8Acure
-DPDP-focused cyber learning platform with interactive labs, scenarios, MCQs, flags, XP, progress, and security education.
+[OPEN REPOSITORY →](https://github.com/akash870547-hue/Network-vapt-retesting-automation)
+</details>
 
-**→** [Open project](https://github.com/akash870547-hue/0x8Acure)
+<details><summary><b>[CASE 004] 0x8Acure</b></summary>
 
-### 05 — Multi-Agent SOC Automation
-Research / engineering work around multi-agent AI for SOC automation and incident response.
+Cybersecurity learning platform project with interactive labs, scenarios, quizzes, flags, and security education.
 
-**→** [Open project](https://github.com/akash870547-hue/multi-agent-soc-automation)
+[OPEN REPOSITORY →](https://github.com/akash870547-hue/0x8Acure)
+</details>
 
-### 06 — AI DevSecOps Cloud Security
-Final-year project direction combining secure CI/CD, AWS EKS, Terraform, Prometheus, Grafana, and cloud security monitoring.
+<details><summary><b>[CASE 005] Multi-Agent SOC Automation</b></summary>
 
-**→** [Open project](https://github.com/akash870547-hue/ai-devsecops-cloud-security)
+Engineering/research direction exploring multi-agent AI workflows for SOC automation and incident response.
 
----
+[OPEN REPOSITORY →](https://github.com/akash870547-hue/multi-agent-soc-automation)
+</details>
 
-## 📊 TELEMETRY
+<details><summary><b>[CASE 006] AI DevSecOps Cloud Security</b></summary>
+
+Cloud security and DevSecOps project direction involving CI/CD, AWS EKS, Terraform, Prometheus, Grafana, and monitoring.
+
+[OPEN REPOSITORY →](https://github.com/akash870547-hue/ai-devsecops-cloud-security)
+</details>
+
+## 04 // LIVE TELEMETRY
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akash870547-hue&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=00000000&rank_icon=github" height="165" alt="GitHub statistics">
-<img src="https://streak-stats.demolab.com?user=akash870547-hue&theme=chartreuse-dark&hide_border=true&background=00000000" height="165" alt="Contribution streak">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash870547-hue&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=00000000" height="145" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api?username=akash870547-hue&show_icons=true&hide_border=true&bg_color=080808&title_color=00ff41&text_color=c9d1d9&icon_color=ff3344" height="165" alt="GitHub stats">
+<img src="https://streak-stats.demolab.com?user=akash870547-hue&hide_border=true&background=080808&ring=00ff41&fire=ff3344&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=777777" height="165" alt="GitHub streak">
+<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash870547-hue&layout=compact&hide_border=true&bg_color=080808&title_color=00ff41&text_color=c9d1d9" height="145" alt="Top languages">
 </div>
 
-## 📡 ACTIVITY FEED
+## 05 // ACTIVITY TRACE
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=akash870547-hue&bg_color=080808&color=00ff41&line=00ff41&point=ff3344&area=true&hide_border=true&custom_title=COMMIT%20TRACE" width="100%" alt="Contribution activity graph"></div>
+
+## 06 // RULES OF ENGAGEMENT
+
+```text
+[+] SCOPE FIRST       — only test systems with permission
+[+] EVIDENCE FIRST    — verify before claiming
+[+] CLEAN NOTES       — make findings reproducible
+[+] FIX FORWARD       — pair risk with actionable remediation
+[+] KEEP LEARNING     — labs, code, research, repeat
+```
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akash870547-hue&bg_color=050505&color=00FF41&line=00FF41&point=ff0033&area=true&hide_border=true&custom_title=SECURITY%20ACTIVITY%20FEED" width="100%" alt="GitHub activity graph">
-</div>
-
-## 🧬 OPERATING PROTOCOL
-
-01. **AUTHORIZED TESTING** — Never confuse access with permission.  
-02. **EVIDENCE FIRST** — Findings should be reproducible, explainable, and defensible.  
-03. **AUTOMATE THE BORING** — Repetitive security work belongs in scripts and pipelines.  
-04. **BUILD FOR REMEDIATION** — Findings should help someone actually fix the problem.  
-05. **KEEP THE LAB ALIVE** — Labs, research, projects, and failures are part of the learning loop.
-
-## 🔐 CONNECT
-
-<div align="center">
-<a href="https://www.linkedin.com/in/akash-saraswat-a81a63295/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000"></a>
-<a href="mailto:akash870547@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-ff0033?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
-<a href="https://github.com/akash870547-hue"><img src="https://img.shields.io/badge/GITHUB-AKASH870547--HUE-FFD43B?style=for-the-badge&logo=github&logoColor=000000"></a>
-
-<br><br>
-<img src="./assets/footer.svg" width="100%" alt="Profile footer">
+<a href="https://www.linkedin.com/in/akash-saraswat-a81a63295/"><img src="https://img.shields.io/badge/TRANSMIT-LINKEDIN-00ff41?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"></a>
+<a href="mailto:akash870547@gmail.com"><img src="https://img.shields.io/badge/TRANSMIT-EMAIL-ff3344?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email"></a>
+<br><br><img src="./assets/footer.svg" width="100%" alt="Terminal footer">
 </div>
