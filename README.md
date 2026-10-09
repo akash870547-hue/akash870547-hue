@@ -13,6 +13,12 @@
 > Operator: **Akash Saraswat** · Environment: **training-lab** · Access: **authorized**  
 > Browse the case files below directly in this profile. Expand each file like an incident console; all incident artifacts are synthetic training data.
 
+## ▶ LAUNCH THE INTERACTIVE LAB
+
+**Open the browser-based simulation source:** [simulation/index.html](./simulation/index.html) · [View repository](https://github.com/akash870547-hue/akash870547-hue/tree/main/simulation)
+
+The lab includes a terminal/SOC dashboard, searchable casefile directory, expandable synthetic evidence, DFIR response choices, web-authentication validation choices, network retest decisions, feedback, and session-local scoring. To run it as a website, enable GitHub Pages for this repository and use the `main` branch with `/ (root)` as the source; the simulation will be available at `https://akash870547-hue.github.io/akash870547-hue/simulation/` after Pages finishes publishing.
+
 ## ◈ CASEFILE CONSOLE
 
 <details open>
