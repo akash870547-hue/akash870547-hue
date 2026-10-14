@@ -1,25 +1,49 @@
-# AKASH SARASWAT
-
 <div align="center">
-<img src="./assets/terminal-hero.svg" width="100%" alt="Security operator terminal">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2300&pause=650&color=00FF41&center=true&vCenter=true&width=820&lines=root%40akash-lab%3A~%24+open+casefile;CASEFILES+%2F+DFIR+%2F+VAPT+%2F+SOC;root%40akash-lab%3A~%24+run+simulation;OBSERVE+%E2%86%92+INVESTIGATE+%E2%86%92+RESPOND" alt="Terminal typing animation">
 
-![Profile Views](https://komarev.com/ghpvc/?username=akash870547-hue&style=flat-square&color=00ff41&label=VISITS)
-![Mode](https://img.shields.io/badge/MODE-CASEFILE_SIMULATION-ff3344?style=flat-square&labelColor=080808)
-![Scope](https://img.shields.io/badge/SCOPE-AUTHORIZED_LABS-00ff41?style=flat-square&labelColor=080808)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Akash%20Saraswat&fontColor=00ff41&fontSize=58&animation=fadeIn&fontAlignY=35&desc=Offensive%20Security%20%7C%20VAPT%20%7C%20SOC%20Automation&descAlignY=58&descSize=17&descAlign=50" width="100%" alt="Neon terminal banner">
+
+<a href="https://github.com/akash870547-hue">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=root%40akash-lab%3A~%24+whoami;Offensive+Security+%7C+DFIR+%7C+Threat+Research;Observe+%E2%86%92+Investigate+%E2%86%92+Respond;Building+and+breaking+in+authorized+labs." alt="Terminal typing animation">
+</a>
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/akash-saraswat-a81a63295/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/akash870547-hue)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-000?style=for-the-badge&logo=tryhackme&logoColor=00ff41)](https://tryhackme.com/p/akash870547-hue)
+[![Profile Views](https://komarev.com/ghpvc/?username=akash870547-hue&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS)](https://github.com/akash870547-hue)
+
 </div>
 
-> **SECURITY OPERATIONS TERMINAL**  
-> Operator: **Akash Saraswat** · Environment: **training-lab** · Access: **authorized**  
-> Browse the case files below directly in this profile. Expand each file like an incident console; all incident artifacts are synthetic training data.
+---
 
-## ▶ LAUNCH THE INTERACTIVE LAB
+```bash
+root@akash-lab:~$ whoami --verbose
+```
+
+```yaml
+operator:
+  name: "Akash Saraswat"
+  focus:
+    - "Offensive Security & VAPT"
+    - "Digital Forensics & Incident Response"
+    - "Threat Intelligence & OSINT"
+    - "SOC Automation & AI-assisted workflows"
+    - "Cloud Security & DevSecOps"
+  lab_mode: "Authorized testing and synthetic simulations"
+  approach: "Observe -> Investigate -> Validate -> Remediate"
+```
+
+> **SECURITY OPERATIONS TERMINAL**  
+> Explore the case files, security projects, and lab simulations below. Incident artifacts in the casefiles are synthetic training data. Only test systems for which you have explicit authorization.
+
+## ▶ Launch the Interactive Lab
 
 **Open the browser-based simulation source:** [simulation/index.html](./simulation/index.html) · [View repository](https://github.com/akash870547-hue/akash870547-hue/tree/main/simulation)
 
 The lab includes a terminal/SOC dashboard, searchable casefile directory, expandable synthetic evidence, DFIR response choices, web-authentication validation choices, network retest decisions, feedback, and session-local scoring. To run it as a website, enable GitHub Pages for this repository and use the `main` branch with `/ (root)` as the source; the simulation will be available at `https://akash870547-hue.github.io/akash870547-hue/simulation/` after Pages finishes publishing.
 
-## ◈ CASEFILE CONSOLE
+## ◈ Casefile Console
 
 <details open>
 <summary><b>▣ DFIR-001 // WINDOWS RANSOMWARE INVESTIGATION</b> — SIMULATION / SYNTHETIC EVIDENCE</summary>
@@ -136,7 +160,7 @@ During an authorized test, session behavior appears inconsistent between browser
 [OPEN RETEST AUTOMATION →](https://github.com/akash870547-hue/Network-vapt-retesting-automation)
 </details>
 
-## ◈ PROJECT ARCHIVE
+## ◈ Project Archive
 
 | PROJECT | PURPOSE | OPEN |
 |---|---|---|
@@ -144,25 +168,48 @@ During an authorized test, session behavior appears inconsistent between browser
 | **Multi-Agent SOC Automation** | AI-assisted SOC workflow exploration | [Repository →](https://github.com/akash870547-hue/multi-agent-soc-automation) |
 | **AI DevSecOps Cloud Security** | Cloud security / CI-CD / observability | [Repository →](https://github.com/akash870547-hue/ai-devsecops-cloud-security) |
 
-## ◈ OPERATOR TOOLKIT
+## ◈ Operator Arsenal
 
-<p align="center"><img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,docker,aws,terraform,kubernetes" alt="Technology stack"></p>
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=00ff41)
+![Bash](https://img.shields.io/badge/Bash-000?style=flat-square&logo=gnubash&logoColor=00ff41)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=00ff41)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000?style=flat-square&logo=burpsuite&logoColor=ff6633)
+![Nmap](https://img.shields.io/badge/Nmap-000?style=flat-square&logo=linux&logoColor=00ff41)
+![Wireshark](https://img.shields.io/badge/Wireshark-000?style=flat-square&logo=wireshark&logoColor=00ff41)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=00ff41)
+![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazonaws&logoColor=00ff41)
+![Terraform](https://img.shields.io/badge/Terraform-000?style=flat-square&logo=terraform&logoColor=00ff41)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=flat-square&logo=kubernetes&logoColor=00ff41)
+
+</div>
 
 - **WEB:** Burp Suite · OWASP · ZAP
 - **NETWORK:** Nmap · Wireshark · retesting
 - **DFIR:** Windows events · Sysmon · IOC · timelines
 - **BUILD:** Python · Docker · AWS · Terraform
 
-## ◈ TELEMETRY
+## ◈ Telemetry
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akash870547-hue&show_icons=true&hide_border=true&bg_color=080808&title_color=00ff41&text_color=c9d1d9&icon_color=ff3344" height="165" alt="GitHub statistics">
-<img src="https://streak-stats.demolab.com?user=akash870547-hue&hide_border=true&background=080808&ring=00ff41&fire=ff3344&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=777777" height="165" alt="Contribution streak">
+
+<img src="https://github-readme-stats.vercel.app/api?username=akash870547-hue&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" height="165" alt="GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash870547-hue&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" height="165" alt="Top languages">
+
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akash870547-hue&bg_color=080808&color=00ff41&line=00ff41&point=ff3344&area=true&hide_border=true&custom_title=OPERATOR%20ACTIVITY%20TRACE" width="100%" alt="Activity trace">
+
+<img src="https://streak-stats.demolab.com?user=akash870547-hue&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=777777" height="165" alt="Contribution streak">
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=akash870547-hue&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" width="100%" alt="GitHub trophies">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akash870547-hue&bg_color=0d1117&color=00ff41&line=00ff41&point=ff3344&area=true&hide_border=true&custom_title=OPERATOR%20ACTIVITY%20TRACE" width="100%" alt="Activity trace">
+
 </div>
 
-## ◈ RULES OF ENGAGEMENT
+## ◈ Rules of Engagement
 
 - **SCOPE FIRST** — test only with authorization
 - **EVIDENCE FIRST** — verify before claiming
